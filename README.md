@@ -3,7 +3,7 @@
 
 Steps to Run
 
- 1. Clone the repository into a folder on your local machine "git clone 
+ 1. Clone the repository into a folder on your local machine "git clone https://github.com/IAmJaysWay/CompanionWUMP.git"
  2. Rename ".env.local.example" to ".env.local"
  3. In ".env.local" set the MORALIS_API_KEY environment variable https://docs.moralis.io/reference/getting-the-api-key
  4. In env.local set a NEXTAUTH_SECRET
